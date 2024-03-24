@@ -257,7 +257,7 @@ footer .text-light-gray{
 
     .ten-years-badge {
         position: static;
-        width: 300px;
+        max-width: 300px;
     }
 
     .teams-content,
